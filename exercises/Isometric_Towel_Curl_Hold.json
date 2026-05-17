@@ -1,0 +1,19 @@
+{
+  "id": "Isometric_Towel_Curl_Hold",
+  "name": "Isometric Towel Curl Hold",
+  "force": "static",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a towel curled to 90 degrees, apply opposing pressure with the other arm, hold 20-30 seconds."
+  ],
+  "category": "strength",
+  "images": []
+}

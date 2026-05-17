@@ -1,0 +1,19 @@
+{
+  "id": "Towel_Curl",
+  "name": "Towel Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Hold a towel between both hands, pull apart while curling one arm up against the resistance of the other."
+  ],
+  "category": "strength",
+  "images": []
+}

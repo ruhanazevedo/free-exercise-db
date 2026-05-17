@@ -1,0 +1,20 @@
+{
+  "id": "Handstand_Hold",
+  "name": "Handstand Hold",
+  "force": "static",
+  "level": "expert",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Kick up to a handstand against a wall, hold for as long as form allows."
+  ],
+  "category": "strength",
+  "images": []
+}

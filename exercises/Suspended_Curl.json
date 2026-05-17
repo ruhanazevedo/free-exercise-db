@@ -1,0 +1,20 @@
+{
+  "id": "Suspended_Curl",
+  "name": "Suspended Curl",
+  "force": "pull",
+  "level": "intermediate",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "lats",
+    "abdominals"
+  ],
+  "instructions": [
+    "Using rings or a sturdy bar, set up like a row, palms facing you, curl your chest to your hands."
+  ],
+  "category": "strength",
+  "images": []
+}

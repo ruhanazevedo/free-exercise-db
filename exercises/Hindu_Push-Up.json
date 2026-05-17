@@ -1,0 +1,20 @@
+{
+  "id": "Hindu_Push-Up",
+  "name": "Hindu Push-Up",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "chest",
+    "triceps"
+  ],
+  "instructions": [
+    "Start in downward dog, dive forward bringing chest low, sweep up to upward dog, reverse."
+  ],
+  "category": "strength",
+  "images": []
+}

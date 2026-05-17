@@ -1,0 +1,19 @@
+{
+  "id": "Backpack_Curl",
+  "name": "Backpack Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "forearms"
+  ],
+  "instructions": [
+    "Load a backpack with books, hold the strap, curl like a dumbbell."
+  ],
+  "category": "strength",
+  "images": []
+}

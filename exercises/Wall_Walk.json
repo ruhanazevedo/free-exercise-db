@@ -1,0 +1,20 @@
+{
+  "id": "Wall_Walk",
+  "name": "Wall Walk",
+  "force": "push",
+  "level": "intermediate",
+  "mechanic": "compound",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "shoulders"
+  ],
+  "secondaryMuscles": [
+    "abdominals",
+    "triceps"
+  ],
+  "instructions": [
+    "Start in a push-up position with feet against a wall, walk feet up while walking hands closer to the wall."
+  ],
+  "category": "strength",
+  "images": []
+}

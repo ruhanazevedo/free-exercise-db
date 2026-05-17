@@ -1,0 +1,19 @@
+{
+  "id": "Door_Frame_Curl",
+  "name": "Door Frame Curl",
+  "force": "pull",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "biceps"
+  ],
+  "secondaryMuscles": [
+    "lats"
+  ],
+  "instructions": [
+    "Stand facing a door frame, grip the edge with one hand, lean back and curl your body toward the hand."
+  ],
+  "category": "strength",
+  "images": []
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Donkey_Calf_Raise",
+  "name": "Donkey Calf Raise",
+  "force": "push",
+  "level": "beginner",
+  "mechanic": "isolation",
+  "equipment": "body only",
+  "primaryMuscles": [
+    "calves"
+  ],
+  "secondaryMuscles": [],
+  "instructions": [
+    "Bend forward at the hips with hands on a chair, raise heels off the ground, lower slowly."
+  ],
+  "category": "strength",
+  "images": []
+}
